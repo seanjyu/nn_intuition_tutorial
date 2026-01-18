@@ -66,11 +66,11 @@ Then open your browser to `http://localhost:8501`.
 - **[Svelte](https://svelte.dev/)** - Custom interactive visualizations
 - **[scikit-learn](https://scikit-learn.org/)** - Basic Data utilities
 
+## ScreenShots
+![single_neuron_exercise](images/readme/single_neuron_screenshot.png)
+![xor_exercise](images/readme/xor_screenshot.png)
+![training_gif](images/readme/training_demo-ezgif.com-video-to-gif-converter.gif)
 
-[//]: # (## Screenshots)
-[//]: # ()
-[//]: # (<!-- TODO Add Screenshots -->)
-[//]: # ()
 
 
 ## Acknowledgments
