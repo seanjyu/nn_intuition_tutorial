@@ -12,7 +12,8 @@ if not _RELEASE:
     )
 else:
     parent_dir = os.path.dirname(os.path.abspath(__file__))
-    build_dir = os.path.join(parent_dir, "frontend", "public", "build")
+    # build_dir = os.path.join(parent_dir, "frontend", "public", "build")
+    build_dir = os.path.join(parent_dir, "frontend", "public")
     _component_func = components.declare_component("svelte_components", path=build_dir)
 
 
