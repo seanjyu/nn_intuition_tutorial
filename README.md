@@ -2,6 +2,8 @@
 
 An interactive educational tool for building intuition about how neural networks work. Built with Streamlit and custom Svelte visualizations.
 
+#### The app is hosted on streamlit community and can be reached at this link: [https://seanjyu-nn-intuition-tutorial-app-rqvgfi.streamlit.app/](https://seanjyu-nn-intuition-tutorial-app-rqvgfi.streamlit.app/)
+
 ## Overview
 
 This project provides a hands-on approach to understanding neural networks, starting from the basics of a single neuron and building up to training multi-layer networks on classification problems. Rather than focusing on equations and theory, the emphasis is on visual intuition and experimentation.
@@ -21,9 +23,11 @@ This project provides a hands-on approach to understanding neural networks, star
    Understand what a single neuron computes and how it creates a linear decision boundary.
 3. **Why A Single Neuron Is Not Enough**  
    Discover the limitations of linear classifiers through the XOR problem, and see how adding hidden layers enables complex patterns.
-4. **How to Train A Neural Network**
-5. **Does It Actually Work?**
-6. **Extra Challenges and Additional Reading**
+4. **How to Train A Neural Network** <br>
+   Explain the steps of the neural network training loop.
+5. **Does It Actually Work?** <br>
+   Explore neural network training challenges, specifically underfitting and overfitting.
+6. **Extra Challenges**
 - **Interactive Trainer**  
    Train neural networks on different datasets (Circle, XOR) with customizable architecture and hyperparameters.
 
@@ -34,8 +38,9 @@ This project provides a hands-on approach to understanding neural networks, star
 - Python 3.12+
 - Node.js (for Svelte components)
 
-### Usage
-## Run Locally
+## Usage
+
+### Run Locally
 Install required 
 ```bash
 # Clone the repository
