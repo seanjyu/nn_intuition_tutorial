@@ -1,5 +1,8 @@
 # Interactive Tutorial on Building Neural Network Intuition
 
+![training_gif](images/readme/training_demo-ezgif.com-video-to-gif-converter.gif)
+
+
 An interactive educational tool for building intuition about how neural networks work. Built with Streamlit and custom Svelte visualizations.
 
 #### The app is hosted on streamlit community and can be reached at this link: [https://seanjyu-nn-intuition-tutorial-app-rqvgfi.streamlit.app/](https://seanjyu-nn-intuition-tutorial-app-rqvgfi.streamlit.app/)
@@ -72,10 +75,9 @@ Then open your browser to `http://localhost:8501`.
 - **[scikit-learn](https://scikit-learn.org/)** - Basic Data utilities
 
 ## ScreenShots
-The following are some screenshots that highlight the svelte/streamlit components of the tutorial.
+The following are more screenshots that highlight the svelte/streamlit components of the tutorial.
 ![single_neuron_exercise](images/readme/single_neuron_screenshot.png)
 ![xor_exercise](images/readme/xor_screenshot.png)
-![training_gif](images/readme/training_demo-ezgif.com-video-to-gif-converter.gif)
 
 
 
